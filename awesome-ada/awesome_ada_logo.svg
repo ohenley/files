@@ -93,7 +93,6 @@
        id="filter2398">
       <feBlend
          inkscape:collect="always"
-         mode="lighten"
          in2="BackgroundImage"
          id="feBlend2400" />
     </filter>
